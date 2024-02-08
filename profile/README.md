@@ -1,4 +1,4 @@
-## ![JMMC logo](doc/JMMC-logo.jpg) Open Dev.       
+## ![JMMC logo](doc/JMMC-logo.jpg) Open Dev.
 
 The JMMC-OpenDev organization on github gathers JMMC's public repositories under open-source licenses (see repository LICENSE for more details), including few major forks from other github accounts.
 
