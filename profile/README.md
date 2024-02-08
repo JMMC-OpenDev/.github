@@ -1,6 +1,14 @@
-## JMMC-OpenDev
+## JMMC-OpenDev       ![JMMC logo](doc/JMMC-logo.jpg)
 
-See https://www.jmmc.fr
+The JMMC-OpenDev organization on github gathers JMMC's public repositories under open-source licenses (see repository LICENSE for more details), including few major forks from other github accounts.
+
+See [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
+
+Links:
+- [JMMC OpenDev @ github](https://github.com/JMMC-OpenDev/)
+- [JMMC Board](https://github.com/orgs/JMMC-OpenDev/projects/8)
+- [JMMC Web site](https://www.jmmc.fr)
+- [JMMC releases](https://www.jmmc.fr/releases/)
 
 <!--
 
