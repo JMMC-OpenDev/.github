@@ -1,5 +1,4 @@
-
-## JMMC-OpenDev/.github       ![JMMC logo](doc/JMMC-logo.jpg)
+## ![JMMC logo](doc/JMMC-logo.jpg) Open Dev.
 
 JMMC-OpenDev github web content
 
